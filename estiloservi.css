@@ -1,0 +1,184 @@
+*{
+    margin-top: 0;
+}
+body{
+    );
+
+}
+
+ul{
+  list-style: none;
+}
+#menu li>a{
+  background-color: #ffffff;
+  font-family: Corbel;
+  color: #066594;
+  width: 100%;
+  padding: 10px;
+  display: block;
+  text-decoration: none;
+  min-width: 100%;
+}
+#menu li>a:hover{
+  color: #000;
+  background-color: #eaeaea;
+}
+#menu>li{
+  float: right;
+  text-align:center;
+}
+#menu>li>ul{
+  display: none;
+}
+#menu>li:hover>ul {
+  display:block;
+}
+
+
+	.head{
+	  text-align: center;
+  	  font-family: Corbel;
+  	  font-weight:bold;
+  	  background-color: white;
+  	  width: 100%;
+
+}
+	.valo{
+	  text-align: justify;
+  	  font-family: Corbel;
+  	  font-size: 20;
+	  ;
+
+}
+	.urge{
+	  position: absolute; 
+	  top: 198px; 
+	  right: 340px; 
+	  border-radius: 20px;
+
+}
+	.urgen{
+	  position: absolute; 
+	  top: 198px; 
+	  right: 20px; 
+	  border-radius: 20px;
+
+}
+	.lista{
+	  text-align: justify;
+  	  font-family: Corbel;
+  	  font-size: 20;
+  	  background-color: white;
+  	  width: 50%;
+	  border-radius: 10px;
+	  ;
+
+}
+	.quiro{
+	  position: absolute; 
+	  top: 444px; 
+	  right: 340px; 
+	  border-radius: 20px;
+
+}
+	.fanos{
+	  position: absolute; 
+	  top: 444px; 
+	  right: 20px; 
+	  border-radius: 20px;
+
+}
+	.hospita{
+	  text-align: justify;
+  	  font-family: Corbel;
+  	  background-color: white;
+  	  width: 50%;
+  	  font-size: 20;
+	  border-radius: 10px;
+	  ;
+
+}
+
+	.rto{
+	  position: absolute; 
+	  top: 724px; 
+	  right: 340px; 
+	  border-radius: 20px;
+
+}
+	.habi{
+	  position: absolute; 
+	  top: 724px; 
+	  right: 20px; 
+	  border-radius: 20px;
+
+}
+ 	.terapia{
+	  text-align: justify;
+  	  font-family: Corbel;
+  	  background-color: white;
+  	  width: 50%;
+  	  font-size: 20;
+	  border-radius: 10px;
+	  ;
+
+}
+
+	.t{
+	  position: absolute; 
+	  top: 994px; 
+	  right: 340px; 
+	  border-radius: 20px;
+
+}
+	.arp{
+	  position: absolute; 
+	  top: 994px; 
+	  right: 20px; 
+	  border-radius: 20px;
+
+}
+
+	.pie{
+	  text-align: center;
+	  color: #FFFFFF;
+  	  font-family: Arial;
+  	  font-weight:bold;
+	  font-size:3;
+  	  background-color: #043C80;
+  	  width: 100%;
+	  height: 220px;
+	  position: absolute; bottom;
+	  
+
+}
+
+	.hor{
+	  position: absolute; 
+	  top: 58px; 
+	  left: 100px; 
+	  border-radius: 20px;
+
+}
+
+	.dir{
+	  position: absolute; 
+	  top: 58px; 
+	  right: 240px; 
+	  border-radius: 20px;
+
+}
+	.maps{
+	  position: absolute; 
+	  top: 58px; 
+	  right: 540px; 
+	  border-radius: 20px;
+
+}
+	.qr{
+	  position: absolute; 
+	  top: 58px; 
+	  right: 100px; 
+	  border-radius: 20px;
+
+}
